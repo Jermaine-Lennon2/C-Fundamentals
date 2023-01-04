@@ -3,6 +3,7 @@
 using namespace std;
 
 void whileLoop();
+void doWhileLoop();
 
 int main (){
     
@@ -25,5 +26,9 @@ void whileLoop(){
         x++;
     }
     
+    
+}
+
+void doWhileLoop() {
     
 }
